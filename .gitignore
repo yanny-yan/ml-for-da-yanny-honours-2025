@@ -3,3 +3,5 @@ one_layer_primitive_wet/
 speedyweather_T30_vor_div_reanalysis
 speedy_1layer_vor_div_reanalysis.npz
 tisr_T30_regridded_20010101.npz
+playground.ipynb
+tisr/
